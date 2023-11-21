@@ -1,0 +1,73 @@
+
+
+@font-face {
+    font-family: sans-serif; 
+    src: url(img/space_time.zip);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+h1{
+    text-align: center;
+    color: brown;
+    padding: 20px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+p{
+    text-align: center;
+    text-align: justify;
+    color: white;
+    padding: 20px;
+}
+
+.centro{
+    text-align: center;
+    background-color: brown;
+    padding: 20px;
+
+    
+}
+
+
+.color{
+    text-align: center;
+    background-color: brown;
+    padding: 20px;
+}
+
+
+header{
+    color: rgb(253, 253, 253);
+    font-size: x-large;
+    font-style: oblique;
+    padding: 20px;
+}
+
+
+#logo{
+    width: 550px;
+}
+
+
+.titulo{
+    font-family: 'space_time', sans-serif;
+    background-color: brown;
+    text-align: center;
+   
+}
+
+.ul{
+color: brown;
+}
